@@ -24,7 +24,7 @@ section{
 }
 
 .card{
-    width: 350px;
+    width: 350px; 
     border-radius: 20px;
     background: white;
     overflow: hidden;
